@@ -1,6 +1,6 @@
 import os
 
-files = os.listdir("q-a/Audio - Q _ A")
+files = os.listdir("../tadabbur/Audio - Tadabbur Quran")
 files.sort()
 
 for file in files:
@@ -9,3 +9,4 @@ for file in files:
     print('<source src="https://mufidu.github.io/kajian-ufa/tadabbur/Audio%20-%20Tadabbur%20Quran/{}" type="audio/mpeg">'.format(file.replace(" ", "%20")))
     print("Your browser does not support the audio element.")
     print("</audio>")
+    print("")
