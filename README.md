@@ -1,9 +1,7 @@
-## Kajian Ustadz Firanda Andirja - Kelas UFA
+# Web player untuk audio Kajian Ustadz Firanda Andirja
 
--   [Audio Tematik](https://mufidu.github.io/kajian-ufa/tematik)
+Bisa diakses [di sini](https://mufidu.github.io/kajian-ufa).
 
--   [Audio Tadabbur Quran](https://mufidu.github.io/kajian-ufa/tadabbur)
+---
 
--   [Audio Silsilah Hati](https://mufidu.github.io/kajian-ufa/silsilah-hati)
-
--   [Audio Q & A](https://mufidu.github.io/kajian-ufa/q-a)
+Audio speed controller script by [Pepck/yuptude](https://github.com/Pepck/yuptude).
