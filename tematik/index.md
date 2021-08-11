@@ -424,6 +424,22 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
 
     </audio>
 
+-   Tematik 25 - Sabar Akan Membahagiakanmu Bagaimanapun Kondisimu
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2025%20-%20Sabar%20Akan%20Membahagiakanmu%20Bagaimanapun%20Kondisimu.mp3" type="audio/mpeg">
+
+    </audio>
+
+-   Tematik 26 - Inilah Rahasia Keutamaan Sabar
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2026%20-%20Inilah%20Rahasia%20Keutamaan%20Sabar.mp3" type="audio/mpeg">
+
+    </audio>
+
 <br>
 
 ---
