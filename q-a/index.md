@@ -78,7 +78,6 @@
 #yptd-controls {
   float: right;
   height: 2.25em;
-  border-left: 2px solid rgba(0, 0, 0, 0.33);
 }
 #yptd-box {
   -moz-box-sizing: border-box;
