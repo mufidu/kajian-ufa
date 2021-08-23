@@ -439,6 +439,48 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
 
     </audio>
 
+-   Tematik 27 - Sabar Setengah Iman, Sisanya Adalah Syukur
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2027%20-%20Sabar%20Setengah%20Iman,%20Sisanya%20Adalah%20Syukur.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 28 - Dalam Ketaatan Butuh Kesabaran
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2028%20-%20Dalam%20Ketaatan%20Butuh%20Kesabaran.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 29 - Kekuatan Sabar, Kisah Seorang Yang Memiliki Satu Kaki Bisa Berdiri Shalat Selama Lebih dari 2 Jam
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2029%20-%20Kekuatan%20Sabar,%20Kisah%20Seorang%20Yang%20Memiliki%20Satu%20Kaki%20Bisa%20Berdiri%20Shalat%20Selama%20Lebih%20dari%202%20Jam.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 30 - Lihatlah! Orang Kafir dan Pelaku Kemaksiatan Saja Bersabar
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2030%20-%20Lihatlah!%20Orang%20Kafir%20dan%20Pelaku%20Kemaksiatan%20Saja%20Bersabar.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 31 - Sabar Dalam Meninggalkan Kemaksiatan, Kisah Luar Biasa Nabi Yusuf
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2031%20-%20Sabar%20Dalam%20Meninggalkan%20Kemaksiatan,%20Kisah%20Luar%20Biasa%20Nabi%20Yusuf.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 32 - Inilah 3 Cara Bersabar Dalam Meninggalkan Kemaksiatan
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2032%20%20-%20Inilah%203%20Cara%20Bersabar%20Dalam%20Meninggalkan%20Kemaksiatan.mp3" type="audio/mpeg">
+    </audio>
+
 <br>
 
 ---

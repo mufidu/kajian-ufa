@@ -230,40 +230,53 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
 }
 </script>
 
--   Q & A - Hukum Menjadi Admin Dakwah Instagram dan Youtube
+-   1. Q \_ A - Hukum Menjadi Admin Dakwah Instagram dan Youtube.mp3
 
     <audio controls preload="none">
 
     <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/1.%20Q%20_%20A%20-%20Hukum%20Menjadi%20Admin%20Dakwah%20Instagram%20dan%20Youtube.mp3" type="audio/mpeg">
-    Maaf, browser Anda tidak mendukung pemutaran audio.
     </audio>
 
--   Q & A - Aku Takut Meninggalkan Pekerjaan Haram, Karena Takut Jatuh Miskin
+-   2. Q \_ A - Aku Takut Meninggalkan Pekerjaan Haram, Karena Takut Jatuh Miskin.mp3
 
     <audio controls preload="none">
 
     <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/2.%20Q%20_%20A%20-%20Aku%20Takut%20Meninggalkan%20Pekerjaan%20Haram,%20Karena%20Takut%20Jatuh%20Miskin.mp3" type="audio/mpeg">
     </audio>
 
--   Q & A - Hukum Aborsi Janin
+-   3. Q \_ A - Hukum Aborsi janin.mp3
 
     <audio controls preload="none">
 
     <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/3.%20Q%20_%20A%20-%20Hukum%20Aborsi%20janin.mp3" type="audio/mpeg">
     </audio>
 
--   Q & A - Orang Tua Menolak Menikahkan Anaknya Dengan Alasan Belum Selesai Kuliah
+-   4. Q \_ A - Orang Tua Menolak Menikahkan Anaknya Dengan Alasan Belum Selesai Kuliah.mp3
 
     <audio controls preload="none">
 
     <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/4.%20Q%20_%20A%20-%20Orang%20Tua%20Menolak%20Menikahkan%20Anaknya%20Dengan%20Alasan%20Belum%20Selesai%20Kuliah.mp3" type="audio/mpeg">
     </audio>
 
--   Q & A - Tidak Bisa Memaafkan Karena Sakit Hati Dipecat Juragan
+-   5. Q \_ A - Tidak Bisa Memaafkan Karena Sakit Hati Dipecat Juragan.mp3
 
     <audio controls preload="none">
 
     <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/5.%20Q%20_%20A%20-%20Tidak%20Bisa%20Memaafkan%20Karena%20Sakit%20Hati%20Dipecat%20Juragan.mp3" type="audio/mpeg">
+    </audio>
+
+-   6. Q \_ A - Hukum Menceraikan Istri yang Susah Dinasihati.mp3
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/6.%20Q%20_%20A%20-%20Hukum%20Menceraikan%20Istri%20yang%20Susah%20Dinasihati.mp3" type="audio/mpeg">
+    </audio>
+
+-   7. Q \_ A - Hukum Membaca Surat Al-Kahfi Di Hari Jumat.mp3
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/7.%20Q%20_%20A%20-%20Hukum%20Membaca%20Surat%20Al-Kahfi%20Di%20Hari%20Jumat.mp3" type="audio/mpeg">
     </audio>
 
 <br>

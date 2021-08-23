@@ -4,7 +4,7 @@ files = os.listdir("../tematik/Audio - Tematik")
 files.sort()
 
 for file in files:
-    print('-   {}'.format(file))
+    print('-   {}'.format(file.replace('.mp3', '')))
     print("")
     print('    <audio controls preload="none">')
     print("")
