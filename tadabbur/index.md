@@ -438,6 +438,13 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
 
     </audio>
 
+-   27. TQ - Pilihlah Kalimat Terbaik Sebelum Terucap Karena Setan Memecah-belah Manusia dengan Permusuhan
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tadabbur/Audio%20-%20Tadabbur%20Quran/27.%20TQ%20-%20Pilihlah%20Kalimat%20Terbaik%20Sebelum%20Terucap%20Karena%20Setan%20Memecah-belah%20Manusia%20dengan%20Permusuhan.mp3" type="audio/mpeg">
+    </audio>
+
 <br>
 
 ---

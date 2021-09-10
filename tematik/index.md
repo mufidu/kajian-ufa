@@ -481,6 +481,76 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
     <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2032%20%20-%20Inilah%203%20Cara%20Bersabar%20Dalam%20Meninggalkan%20Kemaksiatan.mp3" type="audio/mpeg">
     </audio>
 
+-   Tematik 33 - Sabar Pada Pukulan Pertama
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2033%20-%20Sabar%20Pada%20Pukulan%20Pertama.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 34 - Saat Musibah Akan Mengangkat Derajatmu
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2034%20-%20Saat%20Musibah%20Akan%20Mengangkat%20Derajatmu.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 35 - Saat Ujian Mendera Lihatlah Dibawahmu Dan Tetaplah Bersyukur
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2035%20-%20Saat%20Ujian%20Mendera%20Lihatlah%20Dibawahmu%20Dan%20Tetaplah%20Bersyukur.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 36 - Yang Terbaik Adalah Pilihan Allah
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2036%20-%20Yang%20Terbaik%20Adalah%20Pilihan%20Allah.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 37 - Buktikan Cintamu Kepada Nabi dengan Menjauhi Bid_ah
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2037%20-%20Buktikan%20Cintamu%20Kepada%20Nabi%20dengan%20Menjauhi%20Bid_ah.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 38 - Sekarang ya Rasulallah, Aku Lebih Mencintaimu Daripada Diriku Sendiri
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2038%20-%20Sekarang%20ya%20Rasulallah,%20Aku%20Lebih%20Mencintaimu%20Daripada%20Diriku%20Sendiri.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 39 - Seseorang Dikumpulkan Di Hari Kiamat Bersama dengan Orang yang Dicintainya
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2039%20-%20Seseorang%20Dikumpulkan%20Di%20Hari%20Kiamat%20Bersama%20dengan%20Orang%20yang%20Dicintainya.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 40 - Para Sahabat Lebih Tahu Cara Mencintai Nabi Muhammad
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2040%20-%20Para%20Sahabat%20Lebih%20Tahu%20Cara%20Mencintai%20Nabi%20Muhammad.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 41 - Dua Pilar Bukti Anda Mencintai Nabi Yaitu Kerinduan dan Ittiba\_
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2041%20-%20Dua%20Pilar%20Bukti%20Anda%20Mencintai%20Nabi%20Yaitu%20Kerinduan%20dan%20Ittiba_.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 42 - Kenali Jasa Nabi Muhammad untuk Menumbuhkan Rasa Cintamu Padanya
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2042%20-%20Kenali%20Jasa%20Nabi%20Muhammad%20untuk%20Menumbuhkan%20Rasa%20Cintamu%20Padanya.mp3" type="audio/mpeg">
+    </audio>
+
 <br>
 
 ---
