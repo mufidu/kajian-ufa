@@ -557,6 +557,76 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
     <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2042%20-%20Kenali%20Jasa%20Nabi%20Muhammad%20untuk%20Menumbuhkan%20Rasa%20Cintamu%20Padanya.mp3" type="audio/mpeg">
     </audio>
 
+-   Tematik 43 - Cinta Luar Biasa
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2043%20-%20Cinta%20Luar%20Biasa.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 44 - Buktikan Cintamu Kepada Nabi dengan Mengikuti Sunnahnya
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2044%20-%20Buktikan%20Cintamu%20Kepada%20Nabi%20dengan%20Mengikuti%20Sunnahnya.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 45 - Semangat Beramal Ketika Mendengar Hadis Nabi
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2045%20-%20Semangat%20Beramal%20Ketika%20Mendengar%20Hadis%20Nabi.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 46 - Tinggalkan Apa yang Dilarang Nabi
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2046%20-%20Tinggalkan%20Apa%20yang%20Dilarang%20Nabi.mp3" type="audio/mpeg">  
+    </audio>
+
+-   Tematik 47 - Mendahulukan Ucapan Nabi Daripada yang Lainnya
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2047%20-%20Mendahulukan%20Ucapan%20Nabi%20Daripada%20yang%20Lainnya.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 48 - Bersegeralah Beramal Shaleh untuk Bekal Akhirat
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2048%20-%20Bersegeralah%20Beramal%20Shaleh%20untuk%20Bekal%20Akhirat.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 49 - HASAD, Tenyata Ada 2 Orang yang Boleh Anda Hasadi
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2049%20-%20HASAD,%20Tenyata%20Ada%202%20Orang%20yang%20Boleh%20Anda%20Hasadi.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 50 - Berlombalah Dalam Beramal Karena Surga Bertingkat-tingkat
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2050%20-%20Berlombalah%20Dalam%20Beramal%20Karena%20Surga%20Bertingkat-tingkat.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 51 - Bersegera Dalam Kebajikan Doa Mudah Terkabul
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2051%20-%20Bersegera%20Dalam%20Kebajikan%20Doa%20Mudah%20Terkabul.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 52 -Terdepan dalam Ketaatan Ciri Sempurna Iman Seorang Hamba
+
+    <audio controls preload="none">
+
+    <source src="https://mufidu.github.io/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2052%20-Terdepan%20dalam%20Ketaatan%20Ciri%20Sempurna%20Iman%20Seorang%20Hamba.mp3" type="audio/mpeg">
+    </audio>
+
 <br>
 
 ---
