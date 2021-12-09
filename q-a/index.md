@@ -163,9 +163,9 @@
 
 <script>
     /**
- * yuptude v1
- * yuptude is a tiny bookmarklet that you can use to speed up or slow down videos in your browser.
- */
+* yuptude v1
+* yuptude is a tiny bookmarklet that you can use to speed up or slow down videos in your browser.
+*/
 
 //Speed at which to play 
 var s = 1.0;
@@ -236,76 +236,165 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
 }
 </script>
 
-1. Q & A - Hukum Menjadi Admin Dakwah Instagram dan Youtube.mp3
+1. Q & A - Hukum Menjadi Admin Dakwah Instagram dan Youtube
 
     <audio controls preload="none">
 
-    <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/1.%20Q%20_%20A%20-%20Hukum%20Menjadi%20Admin%20Dakwah%20Instagram%20dan%20Youtube.mp3" type="audio/mpeg">
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/1.%20Q%20_%20A%20-%20Hukum%20Menjadi%20Admin%20Dakwah%20Instagram%20dan%20Youtube.mp3" type="audio/mpeg">
     </audio>
 
-2. Q & A - Aku Takut Meninggalkan Pekerjaan Haram, Karena Takut Jatuh Miskin.mp3
+2. Q & A - Aku Takut Meninggalkan Pekerjaan Haram, Karena Takut Jatuh Miskin
 
     <audio controls preload="none">
 
-    <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/2.%20Q%20_%20A%20-%20Aku%20Takut%20Meninggalkan%20Pekerjaan%20Haram,%20Karena%20Takut%20Jatuh%20Miskin.mp3" type="audio/mpeg">
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/2.%20Q%20_%20A%20-%20Aku%20Takut%20Meninggalkan%20Pekerjaan%20Haram,%20Karena%20Takut%20Jatuh%20Miskin.mp3" type="audio/mpeg">
     </audio>
 
-3. Q & A - Hukum Aborsi janin.mp3
+3. Q & A - Hukum Aborsi janin
 
     <audio controls preload="none">
 
-    <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/3.%20Q%20_%20A%20-%20Hukum%20Aborsi%20janin.mp3" type="audio/mpeg">
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/3.%20Q%20_%20A%20-%20Hukum%20Aborsi%20janin.mp3" type="audio/mpeg">
     </audio>
 
-4. Q & A - Orang Tua Menolak Menikahkan Anaknya Dengan Alasan Belum Selesai Kuliah.mp3
+4. Q & A - Orang Tua Menolak Menikahkan Anaknya Dengan Alasan Belum Selesai Kuliah
 
     <audio controls preload="none">
 
-    <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/4.%20Q%20_%20A%20-%20Orang%20Tua%20Menolak%20Menikahkan%20Anaknya%20Dengan%20Alasan%20Belum%20Selesai%20Kuliah.mp3" type="audio/mpeg">
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/4.%20Q%20_%20A%20-%20Orang%20Tua%20Menolak%20Menikahkan%20Anaknya%20Dengan%20Alasan%20Belum%20Selesai%20Kuliah.mp3" type="audio/mpeg">
     </audio>
 
-5. Q & A - Tidak Bisa Memaafkan Karena Sakit Hati Dipecat Juragan.mp3
+5. Q & A - Tidak Bisa Memaafkan Karena Sakit Hati Dipecat Juragan
 
     <audio controls preload="none">
 
-    <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/5.%20Q%20_%20A%20-%20Tidak%20Bisa%20Memaafkan%20Karena%20Sakit%20Hati%20Dipecat%20Juragan.mp3" type="audio/mpeg">
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/5.%20Q%20_%20A%20-%20Tidak%20Bisa%20Memaafkan%20Karena%20Sakit%20Hati%20Dipecat%20Juragan.mp3" type="audio/mpeg">
     </audio>
 
-6. Q & A - Hukum Menceraikan Istri yang Susah Dinasihati.mp3
+6. Q & A - Hukum Menceraikan Istri yang Susah Dinasihati
 
     <audio controls preload="none">
 
-    <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/6.%20Q%20_%20A%20-%20Hukum%20Menceraikan%20Istri%20yang%20Susah%20Dinasihati.mp3" type="audio/mpeg">
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/6.%20Q%20_%20A%20-%20Hukum%20Menceraikan%20Istri%20yang%20Susah%20Dinasihati.mp3" type="audio/mpeg">
     </audio>
 
-7. Q & A - Hukum Membaca Surat Al-Kahfi Di Hari Jumat.mp3
+7. Q & A - Hukum Membaca Surat Al-Kahfi Di Hari Jumat
 
     <audio controls preload="none">
 
-    <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/7.%20Q%20_%20A%20-%20Hukum%20Membaca%20Surat%20Al-Kahfi%20Di%20Hari%20Jumat.mp3" type="audio/mpeg">
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/7.%20Q%20_%20A%20-%20Hukum%20Membaca%20Surat%20Al-Kahfi%20Di%20Hari%20Jumat.mp3" type="audio/mpeg">
     </audio>
 
 8. Q & A - Bagaimanakah Nasib Janda Kelak Di Surga
 
     <audio controls preload="none">
 
-    <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/8.%20Q%20&%20A%20-%20Bagaimanakah%20Nasib%20Janda%20Kelak%20Di%20Surga.mp3" type="audio/mpeg">
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/8.%20Q%20&%20A%20-%20Bagaimanakah%20Nasib%20Janda%20Kelak%20Di%20Surga.mp3" type="audio/mpeg">
     </audio>
 
 9. Q & A - Apakah Suami Akan Tetap Mencintai Istrinya Tatkala Masuk Surga
 
     <audio controls preload="none">
 
-    <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/9.%20Q%20&%20A%20-%20Apakah%20Suami%20Akan%20Tetap%20Mencintai%20Istrinya%20Tatkala%20Masuk%20Surga.mp3" type="audio/mpeg">
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/9.%20Q%20&%20A%20-%20Apakah%20Suami%20Akan%20Tetap%20Mencintai%20Istrinya%20Tatkala%20Masuk%20Surga.mp3" type="audio/mpeg">
     </audio>
 
 10. Q & A - Ibuku Pernah Selingkuh, Haruskah Aku Tetap Berbakti Padanya
 
     <audio controls preload="none">
 
-    <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/10.%20Q%20&%20A%20-%20Ibuku%20Pernah%20Selingkuh,%20Haruskah%20Aku%20Tetap%20Berbakti%20Padanya.mp3" type="audio/mpeg">
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/10.%20Q%20&%20A%20-%20Ibuku%20Pernah%20Selingkuh,%20Haruskah%20Aku%20Tetap%20Berbakti%20Padanya.mp3" type="audio/mpeg">
     </audio>
 
-<br>
+11. Q & A - Kenapa Perceraian Ada di Tangan Laki-laki
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/11.%20Q%20_%20A%20-%20Kenapa%20Perceraian%20Ada%20di%20Tangan%20Laki-laki.mp3" type="audio/mpeg">
+    </audio>
+
+12. Q & A - Kapan Istri Boleh Minta Cerai Secara Syar_i
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/12.%20Q%20_%20A%20-%20Kapan%20Istri%20Boleh%20Minta%20Cerai%20Secara%20Syar_i.mp3" type="audio/mpeg">
+    </audio>
+
+13. Q & A - Kiat Menghindari Konflik dengan Mertua
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/13.%20Q%20_%20A%20-%20Kiat%20Menghindari%20Konflik%20dengan%20Mertua.mp3" type="audio/mpeg">
+    </audio>
+
+14. Q & A - Hukum Makan Harta Haram dan Memanfaatkan Anak Yatim Untuk Donasi
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/14.%20Q%20_%20A%20-%20Hukum%20Makan%20Harta%20Haram%20dan%20Memanfaatkan%20Anak%20Yatim%20Untuk%20Donasi.mp3" type="audio/mpeg">
+    </audio>
+
+15. Q & A - Apakah Makanan Haram Berdampak Buruk Kepada Anak Kita
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/15.%20Q%20_%20A%20-%20Apakah%20Makanan%20Haram%20Berdampak%20Buruk%20Kepada%20Anak%20Kita.mp3" type="audio/mpeg">
+    </audio>
+
+16. Q & A - Hukum Orang Tua Kerja di Tempat Haram
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/16.%20Q%20_%20A%20-%20Hukum%20Orang%20Tua%20Kerja%20di%20Tempat%20Haram.mp3" type="audio/mpeg">
+    </audio>
+
+17. Q & A - Haruskah Bertanya Kehalalan Makanan Kepada Penjual
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/17.%20Q%20_%20A%20-%20Haruskah%20Bertanya%20Kehalalan%20Makanan%20Kepada%20Penjual.mp3" type="audio/mpeg">
+    </audio>
+
+18. Q & A - Hukum Ditraktir Makanan Oleh Kawan yang Bekerja di Tempat Haram
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/18.%20Q%20_%20A%20-%20Hukum%20Ditraktir%20Makanan%20Oleh%20Kawan%20yang%20Bekerja%20di%20Tempat%20Haram.mp3" type="audio/mpeg">
+    </audio>
+
+19. Q & A - Hukum Berziarah Ke Kuburan Wali dan Orang Shalih
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/19.%20Q%20_%20A%20-%20Hukum%20Berziarah%20Ke%20Kuburan%20Wali%20dan%20Orang%20Shalih.mp3" type="audio/mpeg">
+    </audio>
+
+20. Q & A - Bagaimana Sikap yang Benar Ketika Pelaku Kemaksiatan Meninggal Dunia
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/20.%20Q%20_%20A%20-%20Bagaimana%20Sikap%20yang%20Benar%20Ketika%20Pelaku%20Kemaksiatan%20Meninggal%20Dunia.mp3" type="audio/mpeg">
+    </audio>
+
+21. Q & A - Bingung Sesama Dai Saling Bantah-Bantahan
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/21.%20Q%20_%20A%20-%20Bingung%20Sesama%20Dai%20Saling%20Bantah-Bantahan.mp3" type="audio/mpeg">
+    </audio>
+
+22. Q & A - Hukum Mendengar Ceramah Dari Banyak Dai
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/22.%20Q%20_%20A%20-%20Hukum%20Mendengar%20Ceramah%20Dari%20Banyak%20Dai.mp3" type="audio/mpeg">
+    </audio>
+
+23. Q & A - Apakah Orang yang Menunda Tobat Tidak Akan Diberi Petunjuk Lagi Oleh Allah
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/23.%20Q%20_%20A%20-%20Apakah%20Orang%20yang%20Menunda%20Tobat%20Tidak%20Akan%20Diberi%20Petunjuk%20Lagi%20Oleh%20Allah.mp3" type="audio/mpeg">
+    </audio>
 
 ---
