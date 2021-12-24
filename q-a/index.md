@@ -397,4 +397,53 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
     <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/23.%20Q%20_%20A%20-%20Apakah%20Orang%20yang%20Menunda%20Tobat%20Tidak%20Akan%20Diberi%20Petunjuk%20Lagi%20Oleh%20Allah.mp3" type="audio/mpeg">
     </audio>
 
+24. Q & A - Bagaimana Menyikapi Perbedaan dan Perdebatan di Sosial Media Saat ini
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/24.%20Q%20_%20A%20-%20Bagaimana%20Menyikapi%20Perbedaan%20dan%20Perdebatan%20di%20Sosial%20Media%20Saat%20ini.mp3" type="audio/mpeg">
+    </audio>
+
+25. Q & A - Sikap Kita Kepada Orang Tua yang Berbeda Kepemahaman Agamanya
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/25.%20Q%20_%20A%20-%20Sikap%20Kita%20Kepada%20Orang%20Tua%20yang%20Berbeda%20Kepemahaman%20Agamanya.mp3" type="audio/mpeg">
+    </audio>
+
+26. Q & A - Hukum Wanita Memakai Minyak Wangi
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/26.%20Q%20_%20A%20-%20Hukum%20Wanita%20Memakai%20Minyak%20Wangi.mp3" type="audio/mpeg">
+    </audio>
+
+27. Q & A - Hukum Memakai Sepatu Berbahan Kulit Babi
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/27.%20Q%20_%20A%20-%20Hukum%20Memakai%20Sepatu%20Berbahan%20Kulit%20Babi.mp3" type="audio/mpeg">
+    </audio>
+
+28. Q & A - Istri Dilarang Suami Ikut Kajian Sunnah
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/28.%20Q%20_%20A%20-%20Istri%20Dilarang%20Suami%20Ikut%20Kajian%20Sunnah.mp3" type="audio/mpeg">
+    </audio>
+
+29. Q & A - Bolehkah Wanita Menampakkan Rambut Kepada Saudara Ipar Laki-laki
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/29.%20Q%20_%20A%20-%20Bolehkah%20Wanita%20Menampakkan%20Rambut%20Kepada%20Saudara%20Ipar%20Laki-laki.mp3" type="audio/mpeg">
+    </audio>
+
+30. Q & A - Apakah Ada Kewajiban Mendakwahi Tetangga
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/30.%20Q%20_%20A%20-%20Apakah%20Ada%20Kewajiban%20Mendakwahi%20Tetangga.mp3" type="audio/mpeg">
+    </audio>
+
 ---

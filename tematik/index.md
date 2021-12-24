@@ -880,4 +880,32 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
     <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2092%20-%20Diantara%20Kesalahan%20Beragama,%20Berdalil%20dengan%20Pengalaman%20Tertentu.mp3" type="audio/mpeg">
     </audio>
 
+-   Tematik 93 - Diantara Kesalahan Beragama, Hanya Berdalil dengan Hadis Mutawatir dan Menolak Hadis Ahad
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2093%20-%20Diantara%20Kesalahan%20Beragama,%20Hanya%20Berdalil%20dengan%20Hadis%20Mutawatir%20dan%20Menolak%20Hadis%20Ahad.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 94 - Diantara Kesalahan Beragama, Berdalil Karena Senioritas Umur Lebih Tua
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2094%20-%20Diantara%20Kesalahan%20Beragama,%20Berdalil%20Karena%20Senioritas%20Umur%20Lebih%20Tua.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 95 - Diantara Kesalahan Beragama, Berdalil dengan Perkataan Ahli Filsasat
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2095%20-%20Diantara%20Kesalahan%20Beragama,%20Berdalil%20dengan%20Perkataan%20Ahli%20Filsasat.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 96 - Diantara Kesalahan Beragama, Berdalil dengan Perkataan Imam Madzhab
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2096%20-%20Diantara%20Kesalahan%20Beragama,%20Berdalil%20dengan%20Perkataan%20Imam%20Madzhab.mp3" type="audio/mpeg">
+    </audio>
+
 ---
