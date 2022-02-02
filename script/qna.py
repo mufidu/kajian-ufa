@@ -247,16 +247,11 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
   for file in files:
       judul = '{}'.format(file.replace('.mp3', '').replace(' _ ', '&'))
       judul = judul + "\n\n"
-      # print('    <audio controls preload="none">')
       judul = judul + '    <audio controls preload="none">'
-      # print("")
       judul = judul + "\n" + "\n"
-      # print('    <source src="https://mufidu.github.io/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/{}" type="audio/mpeg">'.format(file.replace(" ", "%20")))
       judul = judul + '    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/{}" type="audio/mpeg">'.format(file.replace(" ", "%20"))
-      # print("    </audio>")
       judul = judul + "\n"
       judul = judul + "    </audio>"
-      # print("")
       judul = judul.replace("Q&A", "Q & A") + "\n\n"
       print(judul)
       file1 = open("../q-a/index.md", "a")

@@ -446,4 +446,116 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
     <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/30.%20Q%20_%20A%20-%20Apakah%20Ada%20Kewajiban%20Mendakwahi%20Tetangga.mp3" type="audio/mpeg">
     </audio>
 
+31. Q & A - Suami tidak Memberi Nafkah Bolehkah Istri Tidak Taat Pada Suami
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/31.%20Q%20_%20A%20-%20Suami%20tidak%20Memberi%20Nafkah%20Bolehkah%20Istri%20Tidak%20Taat%20Pada%20Suami.mp3" type="audio/mpeg">
+    </audio>
+
+32. Q & A - Tips Agar Pasangan Kenal Hidayah Sunnah
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/32.%20Q%20_%20A%20-%20Tips%20Agar%20Pasangan%20Kenal%20Hidayah%20Sunnah.mp3" type="audio/mpeg">
+    </audio>
+
+33. Q & A - Seorang Istri Sedekah Dengan Harta Pribadi
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/33.%20Q%20_%20A%20-%20Seorang%20Istri%20Sedekah%20Dengan%20Harta%20Pribadi.mp3" type="audio/mpeg">
+    </audio>
+
+34. Q & A - Hukum Memakai Khadam Jin Muslim
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/34.%20Q%20_%20A%20-%20Hukum%20Memakai%20Khadam%20Jin%20Muslim.mp3" type="audio/mpeg">
+    </audio>
+
+35. Q & A - Hukum Bermakmum di Belakang Imam yang Suka Melakukan Kesyirikan
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/35.%20Q%20_%20A%20-%20Hukum%20Bermakmum%20di%20Belakang%20Imam%20yang%20Suka%20Melakukan%20Kesyirikan.mp3" type="audio/mpeg">
+    </audio>
+
+36. Q & A -Hukum Poligami dan Maksud Adil dalam Poligami
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/36.%20Q%20_%20A%20-Hukum%20Poligami%20dan%20Maksud%20Adil%20dalam%20Poligami.mp3" type="audio/mpeg">
+    </audio>
+
+37. Q & A - Hibah Orang Tua Kepada Anaknya Tidak Adil
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/37.%20Q%20_%20A%20-%20Hibah%20Orang%20Tua%20Kepada%20Anaknya%20Tidak%20Adil.mp3" type="audio/mpeg">
+    </audio>
+
+38. Q & A - Hukum Kloset WC Kamar Mandi Menghadap Kiblat
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/38.%20Q%20_%20A%20-%20Hukum%20Kloset%20WC%20Kamar%20Mandi%20Menghadap%20Kiblat.mp3" type="audio/mpeg">
+    </audio>
+
+39. Q & A - Hukum Hukum Memelihara Burung dan Kucing
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/39.%20Q%20_%20A%20-%20Hukum%20Hukum%20Memelihara%20Burung%20dan%20Kucing.mp3" type="audio/mpeg">
+    </audio>
+
+40. Q & A - Bagaimana Cara Mengetahui Musibah Itu Sebagai Penggugur Dosa Atau Untuk Pengangkat Derajat_
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/40.%20Q%20_%20A%20-%20Bagaimana%20Cara%20Mengetahui%20Musibah%20Itu%20Sebagai%20Penggugur%20Dosa%20Atau%20Untuk%20Pengangkat%20Derajat_.mp3" type="audio/mpeg">
+    </audio>
+
+41. Q & A - Hukum Sesaji dengan Alasan Sedekah Memberi Makan Hewan
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/41.%20Q%20_%20A%20-%20Hukum%20Sesaji%20dengan%20Alasan%20Sedekah%20Memberi%20Makan%20Hewan.mp3" type="audio/mpeg">
+    </audio>
+
+42. Q & A - Hukum Nadhor dengan Beberapa Calon Wanita Sekaligus
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/42.%20Q%20_%20A%20-%20Hukum%20Nadhor%20dengan%20Beberapa%20Calon%20Wanita%20Sekaligus.mp3" type="audio/mpeg">
+    </audio>
+
+43. Q & A - Hukum Membatalkan Shalat Ketika Ada Kebakaran Atau Gempa
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/43.%20Q%20_%20A%20-%20Hukum%20Membatalkan%20Shalat%20Ketika%20Ada%20Kebakaran%20Atau%20Gempa.mp3" type="audio/mpeg">
+    </audio>
+
+44. Q & A - Antara Pelit dan Sederhana
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/44.%20Q%20_%20A%20-%20Antara%20Pelit%20dan%20Sederhana.mp3" type="audio/mpeg">
+    </audio>
+
+45. Q & A - Hukum Anak Laki-laki Memandikan Jenazah Ibunya
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/45.%20Q%20_%20A%20-%20Hukum%20Anak%20Laki-laki%20Memandikan%20Jenazah%20Ibunya.mp3" type="audio/mpeg">
+    </audio>
+
+46. Q & A - Hukum Makanan Mengandung Rum, Atau Sedikit Alkohol
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/46.%20Q%20_%20A%20-%20Hukum%20Makanan%20Mengandung%20Rum,%20Atau%20Sedikit%20Alkohol.mp3" type="audio/mpeg">
+    </audio>
+
 ---

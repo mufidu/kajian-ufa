@@ -908,4 +908,88 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
     <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2096%20-%20Diantara%20Kesalahan%20Beragama,%20Berdalil%20dengan%20Perkataan%20Imam%20Madzhab.mp3" type="audio/mpeg">
     </audio>
 
+-   Tematik 97 - Ilmu Allah yang Maha Luas, Sedangkan Makhluk Sangat Terbatas
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2097%20-%20Ilmu%20Allah%20yang%20Maha%20Luas,%20Sedangkan%20Makhluk%20Sangat%20Terbatas.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 98 - Nasihat Bagi Perokok
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2098%20-%20Nasihat%20Bagi%20Perokok.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 99 - Dosa Berubah Jadi Pahala dengan Taubat
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2099%20-%20Dosa%20Berubah%20Jadi%20Pahala%20dengan%20Taubat.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 100 - 4 Syarat Tobat Diterima oleh Allah
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20100%20-%204%20Syarat%20Tobat%20Diterima%20oleh%20Allah.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 101 -  Tobat dari Dosa yang Disadari dan Tidak Disadari
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20101%20-%20%20Tobat%20dari%20Dosa%20yang%20Disadari%20dan%20Tidak%20Disadari.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 102 - Bertobatlah Sebelum Azal Menjemput
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20102%20-%20Bertobatlah%20Sebelum%20Azal%20Menjemput.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 103 - Manusia Tidak Lepas Dari Kesalahan, Manusia Terbaik Adalah yang Istighfar dan Bertobat
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20103%20-%20Manusia%20Tidak%20Lepas%20Dari%20Kesalahan,%20Manusia%20Terbaik%20Adalah%20yang%20Istighfar%20dan%20Bertobat.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 104 - Jangan Kau Cela Masa
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20104%20-%20Jangan%20Kau%20Cela%20Masa.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 105 - Ketika Manusia Terlalu Banyak Teori Tentang Kebahagiaan
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20105%20-%20Ketika%20Manusia%20Terlalu%20Banyak%20Teori%20Tentang%20Kebahagiaan.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 106 - Letak Kebahagiaan Sebenarnya
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20106%20-%20Letak%20Kebahagiaan%20Sebenarnya.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 107 - Semakin Bertauhid dan Ikhlas Semakin Dia Bahagia
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20107%20-%20Semakin%20Bertauhid%20dan%20Ikhlas%20Semakin%20Dia%20Bahagia.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 108 -Media Sosial Menjadi Tumbal Kebahagiaan Manusia Saat Ini
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20108%20-Media%20Sosial%20Menjadi%20Tumbal%20Kebahagiaan%20Manusia%20Saat%20Ini.mp3" type="audio/mpeg">
+    </audio>
+
 ---
