@@ -985,11 +985,32 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
     <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20107%20-%20Semakin%20Bertauhid%20dan%20Ikhlas%20Semakin%20Dia%20Bahagia.mp3" type="audio/mpeg">
     </audio>
 
--   Tematik 108 -Media Sosial Menjadi Tumbal Kebahagiaan Manusia Saat Ini
+-   Tematik 108 - Media Sosial Menjadi Tumbal Kebahagiaan Manusia Saat Ini
 
     <audio controls preload="none">
 
-    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20108%20-Media%20Sosial%20Menjadi%20Tumbal%20Kebahagiaan%20Manusia%20Saat%20Ini.mp3" type="audio/mpeg">
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20108%20-%20Media%20Sosial%20Menjadi%20Tumbal%20Kebahagiaan%20Manusia%20Saat%20Ini.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 109 - Menjadi Tumbal Media Sosial Untuk Kebahagiaan Manusia Saat Ini Bag-2
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20109%20-%20Menjadi%20Tumbal%20Media%20Sosial%20Untuk%20Kebahagiaan%20Manusia%20Saat%20Ini%20Bag-2.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 110 -  Ciptakan Surga di Rumah
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20110%20-%20%20Ciptakan%20Surga%20di%20Rumah.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 111 - Saudarakau Saatnya Engkau Berdzikir dan Berkhalwat dengan Allah
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20111%20-%20Saudarakau%20Saatnya%20Engkau%20Berdzikir%20dan%20Berkhalwat%20dengan%20Allah.mp3" type="audio/mpeg">
     </audio>
 
 ---
