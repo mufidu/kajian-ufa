@@ -761,11 +761,11 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
     <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2075%20-%20Beda%20Kita%20dengan%20Salafus%20Shaleh.mp3" type="audio/mpeg">
     </audio>
 
--   Tematik 76 - Kita Mengaku Cinta Kepada Allah ﷻ, Tapi Perkaranya Apakah Kita Benar-Benar Dicintai Allah ﷻ
+-   Tematik 76 - Kita Mengaku Cinta Kepada Allah, Tapi Perkaranya Apakah Kita Benar-Benar Dicintai Allah
 
     <audio controls preload="none">
 
-    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2076%20-%20Kita%20Mengaku%20Cinta%20Kepada%20Allah%20ﷻ,%20Tapi%20Perkaranya%20Apakah%20Kita%20Benar-Benar%20Dicintai%20Allah%20ﷻ.mp3" type="audio/mpeg">
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%2076%20-%20Kita%20Mengaku%20Cinta%20Kepada%20Allah,%20Tapi%20Perkaranya%20Apakah%20Kita%20Benar-Benar%20Dicintai%20Allah.mp3" type="audio/mpeg">
     </audio>
 
 -   Tematik 77 - Kesalahan Argumen dalam Beragama Menganggap Wali Adalah Maksum
@@ -1011,6 +1011,118 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
     <audio controls preload="none">
 
     <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20111%20-%20Saudarakau%20Saatnya%20Engkau%20Berdzikir%20dan%20Berkhalwat%20dengan%20Allah.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 112 - Bahagia dengan Dzikir dan Sholat
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20112%20-%20Bahagia%20dengan%20Dzikir%20dan%20Sholat.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 113 - Saat Terindah di Malam Hari dengan Sholat Malam
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20113%20-%20Saat%20Terindah%20di%20Malam%20Hari%20dengan%20Sholat%20Malam.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 114 - Bahagia dengan Qana_ah
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20114%20-%20Bahagia%20dengan%20Qana_ah.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 115 - Qanaah Membuat Bahagia Melebihi Sang Raja, Tamak Menyengsarakan Jiwa
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20115%20-%20Qanaah%20Membuat%20Bahagia%20Melebihi%20Sang%20Raja,%20Tamak%20Menyengsarakan%20Jiwa.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 116 - Sempit Hati dan Tidak Bahagia Disebabkan Maksiat
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20116%20-%20Sempit%20Hati%20dan%20Tidak%20Bahagia%20Disebabkan%20Maksiat.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 117 - Bahagia dengan Memaafkan
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20117%20-%20Bahagia%20dengan%20Memaafkan.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 118 - Bahagiakan Dirimu dengan Membantu Orang Lain
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20118%20-%20Bahagiakan%20Dirimu%20dengan%20Membantu%20Orang%20Lain.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 119 - Nak Jangan Engkau Berbuat Syirik, Untain Nasihat Orang Tua Kepada Anak
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20119%20-%20Nak%20Jangan%20Engkau%20Berbuat%20Syirik,%20Untain%20Nasihat%20Orang%20Tua%20Kepada%20Anak.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 120 - Nak Berbuat Baiklah Kepada Orang Tuamu, Terutama Pada Ibumu 
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20120%20-%20Nak%20Berbuat%20Baiklah%20Kepada%20Orang%20Tuamu,%20Terutama%20Pada%20Ibumu%20.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 121 - Sikapmu Kepada Orang Tua Akan Dimintai Pertanggung Jawaban Oleh Allah
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20121%20-%20Sikapmu%20Kepada%20Orang%20Tua%20Akan%20Dimintai%20Pertanggung%20Jawaban%20Oleh%20Allah.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 122 - Saat Orang Tuamu Memaksa Kemaksiatan
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20122%20-%20Saat%20Orang%20Tuamu%20Memaksa%20Kemaksiatan.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 123 - Kenapa Malu dengan Kondisi Orang Tua
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20123%20-%20Kenapa%20Malu%20dengan%20Kondisi%20Orang%20Tua.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 124 - Berlemah Lembut Kepada Anak
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20124%20-%20Berlemah%20Lembut%20Kepada%20Anak.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 125 - Perhatikan Amalan Anakmu, Dan Tanamkan Rasa Takut Kepada Allah - Untaian Nasihat Luqman Kepada Anaknya
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20125%20-%20Perhatikan%20Amalan%20Anakmu,%20Dan%20Tanamkan%20Rasa%20Takut%20Kepada%20Allah%20-%20Untaian%20Nasihat%20Luqman%20Kepada%20Anaknya.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 126 - Perintahkan Anakmu Untuk Shalat dan Amar Ma_ruf Nahi Munkar
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20126%20-%20Perintahkan%20Anakmu%20Untuk%20Shalat%20dan%20Amar%20Ma_ruf%20Nahi%20Munkar.mp3" type="audio/mpeg">
+    </audio>
+
+-   Tematik 127 - Rusaknya Perilaku LBGT dan Upaya Mereka Melegalkan Perbuatannya
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/tematik/Audio%20-%20Tematik/Tematik%20127%20-%20Rusaknya%20Perilaku%20LBGT%20dan%20Upaya%20Mereka%20Melegalkan%20Perbuatannya.mp3" type="audio/mpeg">
     </audio>
 
 ---

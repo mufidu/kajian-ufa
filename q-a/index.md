@@ -558,4 +558,53 @@ v.mozPreservesPitch = v.webkitPreservesPitch = v.preservePitch = !p;
     <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/46.%20Q%20_%20A%20-%20Hukum%20Makanan%20Mengandung%20Rum,%20Atau%20Sedikit%20Alkohol.mp3" type="audio/mpeg">
     </audio>
 
+47. Q & A - Anak Kami Meninggal Sebelum Baligh Apa yang Harus Orang Tua Lakukan
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/47.%20Q%20_%20A%20-%20Anak%20Kami%20Meninggal%20Sebelum%20Baligh%20Apa%20yang%20Harus%20Orang%20Tua%20Lakukan.mp3" type="audio/mpeg">
+    </audio>
+
+48. Q & A - Orang Tua Tidak Pernah Mengajarkan Ilmu Syar_i
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/48.%20Q%20_%20A%20-%20Orang%20Tua%20Tidak%20Pernah%20Mengajarkan%20Ilmu%20Syar_i.mp3" type="audio/mpeg">
+    </audio>
+
+49. Q & A - Cara Menasehati Orang Tua yang Salah
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/49.%20Q%20_%20A%20-%20Cara%20Menasehati%20Orang%20Tua%20yang%20Salah.mp3" type="audio/mpeg">
+    </audio>
+
+50. Q & A - Hukum Anak Komplain Orang Tua Karena Kurang Jatah Uang Kuliah
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/50.%20Q%20_%20A%20-%20Hukum%20Anak%20Komplain%20Orang%20Tua%20Karena%20Kurang%20Jatah%20Uang%20Kuliah.mp3" type="audio/mpeg">
+    </audio>
+
+51. Q & A - Saat Anak Tidak Mau Sholat, Bagaimana Sikap Orang Tua
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/51.%20Q%20_%20A%20-%20Saat%20Anak%20Tidak%20Mau%20Sholat,%20Bagaimana%20Sikap%20Orang%20Tua.mp3" type="audio/mpeg">
+    </audio>
+
+52. Q & A - Sikap Orang Tua Kepada Anak yang Sudah dewasa dan Berkeluarga
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/52.%20Q%20_%20A%20-%20Sikap%20Orang%20Tua%20Kepada%20Anak%20yang%20Sudah%20dewasa%20dan%20Berkeluarga.mp3" type="audio/mpeg">
+    </audio>
+
+53. Q & A - Apakah Sama Menghormati Orang Tua dengan Mertua
+
+    <audio controls preload="none">
+
+    <source src="/kajian-ufa/q-a/Audio%20-%20Q%20_%20A/53.%20Q%20_%20A%20-%20Apakah%20Sama%20Menghormati%20Orang%20Tua%20dengan%20Mertua.mp3" type="audio/mpeg">
+    </audio>
+
 ---
